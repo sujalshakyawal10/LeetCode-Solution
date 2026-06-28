@@ -12,7 +12,6 @@ This repository contains my C++ solutions to LeetCode problems.
 
 - Solve 500+ LeetCode problems.
 - Improve Data Structures and Algorithms.
-- Prepare for Software Development Interviews.
 
 ## 🛠️ Language
 
