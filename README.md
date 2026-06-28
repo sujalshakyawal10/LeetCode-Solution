@@ -6,7 +6,7 @@ This repository contains my C++ solutions to LeetCode problems.
 
 - Easy: 11
 - Medium: 4
-- Hard: 1
+- Hard: 2
 
 ## 🎯 Goal
 
