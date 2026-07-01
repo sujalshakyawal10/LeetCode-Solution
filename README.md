@@ -4,9 +4,9 @@ This repository contains my C++ solutions to LeetCode problems.
 
 ## Progress
 
-- Total solved:23
-- Easy: 13
-- Medium: 8
+- Total solved:25
+- Easy: 14
+- Medium: 9
 - Hard: 2
 
 ## Goal
